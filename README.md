@@ -11,7 +11,7 @@
 
 
 ## insert into employee (id, name, email, birthday) values (1, 'Lolly', 'larmour0@geocities.jp', '1931-01-02');
-1 insert into employee (id, name, email, birthday) values (2, 'Currie', 'cdevote1@cornell.edu', '1932-01-29');
+1. insert into employee (id, name, email, birthday) values (2, 'Currie', 'cdevote1@cornell.edu', '1932-01-29');
 insert into employee (id, name, email, birthday) values (3, 'Kristos', 'kmowen2@usnews.com', '1987-08-29');
 insert into employee (id, name, email, birthday) values (4, 'Erny', 'efullegar3@cam.ac.uk', '1974-11-24');
 insert into employee (id, name, email, birthday) values (5, 'Doris', 'dsturton4@acquirethisname.com', '1952-08-31');
